@@ -1,5 +1,3 @@
-# HTML-form-radio-button-and-checkbox
-
 <!DOCTYPE html>
 <html>
   <head> </head>
