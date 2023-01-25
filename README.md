@@ -7,11 +7,8 @@
       <input type="radio" name="gender" value="Male" />Male<br />
       <input type="radio" name="gender" value="Female" />Female<br />
       <input type="radio" name="gender" value="other" />Other<br />
-      <input type="submit" />
-    </form>
-
-    <form>
-      <br />
+      <input type="submit" /><br />
+      
       <p>Courses Done</p>
       <input type="checkbox" name="courses" value="c++" />C++<br />
       <input type="checkbox" name="courses" value="java" />Java<br />
